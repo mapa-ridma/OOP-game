@@ -1,0 +1,32 @@
+body {
+    box-sizing: border-box;
+    background-color: lightcoral;
+    background-image: linear-gradient(315deg, lightcoral 0%, red 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}   
+
+#game-text{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    box-shadow: 15px 15px 10px 2px;
+    width: 650px;
+    overflow: hidden;
+}
+
+#game-text {
+    padding: 4rem;
+}
+
+#startbutton {
+    display: flex;
+    
+    
+    
+    
+}
